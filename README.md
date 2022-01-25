@@ -12,8 +12,21 @@ Clique nos links para instalar o [hyper](https://hyper.is/), [VS Code](https://c
 Acesse a página do [hyper](https://hyper.is/) e clique em Download.
 ![image](https://user-images.githubusercontent.com/81827985/151033470-43320c39-a359-41a1-b21e-bd91fee5a4a4.png)
 
-# Criação de um novo projeto
+### Criando um novo projeto (passo a passo)
+- criar uma pasta com o nome desejado em C:
+- Inicializar o projeto com estrutura do node:
+    - npm init
+- Responder as perguntas:
+    package name: get-started (nome do meu projeto)
+	  description: Primeiro exemplo com Cypress
+	  test command: npx cypress open
+	  git repository:
+	  keywords: palavras chaves para encontrar
+	  author: Hulgo Rafael
+	  license: MIT
 
+- Após, executar esse comando:
+    npm i cypress --save-dev
 
 
 ### Entrar dentro da pasta e inicializar o comando git
