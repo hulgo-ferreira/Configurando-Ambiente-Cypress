@@ -6,15 +6,15 @@
 
 Caso não tenha instalado em seu computador
 
-Clique nos links para instalar o [Cmder](https://cmder.net/), [VS Code](https://code.visualstudio.com/download) e o [gitHub](https://git-scm.com/downloads)
+Clique nos links para instalar o [hyper](https://hyper.is/), [VS Code](https://code.visualstudio.com/download) e o [gitHub](https://git-scm.com/downloads)
 
 ### Instalação do ambiente
-Acesse a página do [Cmder](https://cmder.net/) e clique em Download Full.
-![image](https://user-images.githubusercontent.com/81827985/150981429-d474e23d-62a7-45de-a92a-9e46f0829623.png)
+Acesse a página do [hyper](https://hyper.is/) e clique em Download.
+![image](https://user-images.githubusercontent.com/81827985/151033470-43320c39-a359-41a1-b21e-bd91fee5a4a4.png)
 
-Após ter baixado, salvar o arquivo compactado e descompactado no C:
+# Criação de um novo projeto
 
-### Criar a pasta no C: ou onde desejar com o nome automacao_curso
+
 
 ### Entrar dentro da pasta e inicializar o comando git
   - git init
