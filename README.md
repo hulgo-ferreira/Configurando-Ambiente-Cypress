@@ -37,10 +37,3 @@ Configurar o Hyper (terminal baseado em elétrons construído em HTML/CSS/JS
 - Após, executar esse comando:
     - npm i cypress --save-dev
 
-### Entrar dentro da pasta e inicializar o comando git
-  - git init
-
-### Criar o arquivo e editar o mesmo
-  - touch .gitignore
-  - vi. gitignore
-
