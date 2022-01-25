@@ -9,7 +9,8 @@ Caso não tenha instalado em seu computador
 Clique nos links para instalar o [hyper](https://hyper.is/), [VS Code](https://code.visualstudio.com/download) e o [gitHub](https://git-scm.com/downloads)
 
 ### Instalação do ambiente
-Acesse a página do [hyper](https://hyper.is/) e clique em Download.
+Configurar o Hyper (terminal baseado em elétrons construído em HTML/CSS/JS 
+- Acesse a página do [hyper](https://hyper.is/) e clique em Download.
 ![image](https://user-images.githubusercontent.com/81827985/151033470-43320c39-a359-41a1-b21e-bd91fee5a4a4.png)
 
 - Baixar, instalar e configurar o Hyper.is
@@ -36,8 +37,6 @@ Acesse a página do [hyper](https://hyper.is/) e clique em Download.
 - Após, executar esse comando:
     - npm i cypress --save-dev
 
-### Baixar, instalar e configurar o Hyper (terminal baseado em elétrons construído em HTML/CSS/JS 
-	- Acessar a página
 ### Entrar dentro da pasta e inicializar o comando git
   - git init
 
