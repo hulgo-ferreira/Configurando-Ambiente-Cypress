@@ -37,3 +37,6 @@ Configurar o Hyper (terminal baseado em elétrons construído em HTML/CSS/JS
 - Após, executar esse comando:
     - npm i cypress --save-dev
 
+- Executar o script para abrir a interface do cypress
+    - npm run test
+
