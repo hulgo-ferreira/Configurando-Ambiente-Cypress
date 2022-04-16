@@ -23,6 +23,12 @@ Configurar o Hyper (terminal baseado em elétrons construído em HTML/CSS/JS
 ### Instalando o Nodejs
 - Acesse a página do [nodejs] (https://nodejs.org/en/) e clique em Download for Windows LTS
 
+![image](https://user-images.githubusercontent.com/81827985/163658042-6d092b6a-150f-4cf1-ac77-50e8b1f2cb61.png)
+
+- Realizar a instalação, next, next, finish.
+- Após a instalação, rodar no prompt de comando os seguintes comandos, para confirmar qual a versão e se foi instalado com sucesso.
+	- node --version
+	- npm --version
 
 ### Criando um novo projeto (passo a passo)
 - criar uma pasta com o nome desejado em C:
