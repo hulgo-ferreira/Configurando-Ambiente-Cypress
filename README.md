@@ -20,6 +20,9 @@ Configurar o Hyper (terminal baseado em elétrons construído em HTML/CSS/JS
 		- env: { 'TERM':'cygwin' },
 - Themas importantes para instalar no VSCode
 	- Hyper term Theme
+### Instalando o Nodejs
+- Acesse a página do [nodejs] (https://nodejs.org/en/) e clique em Download for Windows LTS
+
 
 ### Criando um novo projeto (passo a passo)
 - criar uma pasta com o nome desejado em C:
