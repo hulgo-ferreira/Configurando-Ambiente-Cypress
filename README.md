@@ -44,7 +44,7 @@ Configurar o Hyper (terminal baseado em elétrons construído em HTML/CSS/JS
    - license: MIT
 
 - Após, executar esse comando: ele instala o cypress como sendo uma dependência dev
-    - npm i cypress --save-dev
+    - npm install --save-dev cypress@9.7.0
 
 - Executar o script para abrir a interface do cypress
     - npm run test
